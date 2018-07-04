@@ -2,6 +2,8 @@
 
 A simple utility for generating Modbus RTU read_holding_registers commands.
 
+**Note: This project is under active development.**
+
 ### Usage
 
 `mbus_read [MODBUS_ADDRESS] [STARTING_REGISTER] [NUM_OF_REGISTERS]`

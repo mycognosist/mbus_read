@@ -1,5 +1,5 @@
 // mbus_read : commandline tool for executing a Modbus RTU
-// read_holding_registers command
+// Function 3: read_multiple_registers command
 
 // import clap, a library for parsing commandline arguments
 extern crate clap;
